@@ -1,6 +1,6 @@
 # About Me:
-🐧  A huge Linux enthusiast.<br>🎨  I like to rice Linux systems (to presonalize them).<br>💻  Currently studying Comp SCI in university<br>programming at university (1st year).
-<br> I have a huge passion for tech and specifically the UX field and in general front-end.
+🐧  A huge Linux enthusiast.<br>🎨  I like to rice Linux systems (to presonalize them).<br>💻  Currently studying Computer Science in university
+<br>👨‍💻 I have a huge passion for tech and specifically the UX/UI field.
 
 
 ## 🌐 Socials:
