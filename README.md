@@ -3,7 +3,7 @@
 <br>👨‍💻 I have a huge passion for tech and specifically the UX/UI field.
 
 
-## 🌐 Socials:
+## 🌐 Contacts:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hristorasheev@outlook.com) 
 
 # 💻 Tech Stack:
